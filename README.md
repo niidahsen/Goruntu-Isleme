@@ -1,1 +1,1 @@
-# Goruntu-Isleme-makale-Odev2
+# Goruntu-Isleme
